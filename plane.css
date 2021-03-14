@@ -1,0 +1,63 @@
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-image: url(./line_plane.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 50%;
+    height: 100vh;
+}
+
+#button{
+    position: absolute;
+    top: 45%;
+    width: 10%;
+    height: 4%;
+    left: 45%;
+    border: 1px solid skyblue;
+    border-radius: 5px;
+    font-size: 3vh;
+    font-weight: bolder;
+    color:skyblue;
+    font-size-adjust: none;
+    line-height: 2.5vh;
+    background-color: white;
+    box-shadow: 0 0 5px 3px  skyblue;
+    text-decoration: none;
+    text-align: center;
+    padding: 5px;
+    padding-top: 7px;
+    outline: none;
+    transition: all 0.3s ease;
+}
+
+#button:hover{
+    position: absolute;
+    top: 45%;
+    width: 10%;
+    height: 4%;
+    left: 45%;
+    border: 1px solid skyblue;
+    border-radius: 5px;
+    font-size: 3vh;
+    font-weight: bolder;
+    color:white;
+    font-size-adjust: none;
+    line-height: 2.5vh;
+    background-color: skyblue;
+    box-shadow: 0 0 5px 3px  skyblue;
+    text-decoration: none;
+    text-align: center;
+    padding: 5px;
+    padding-top: 7px;
+    outline: none;
+    transition: all 0.3s ease;
+}
